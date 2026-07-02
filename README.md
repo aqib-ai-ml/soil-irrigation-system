@@ -2,11 +2,7 @@
 
 A physical IoT prototype built using an ESP32 microcontroller to monitor soil moisture, ambient temperature, and humidity. This repository documents the complete circuit design, hardware connections, and sensor calibration process. It serves as the data collection foundation for a future AI/ML prediction model.
 
-## Project Video & Demo
-> **[Click here to watch my full setup video!](INSERT_YOUR_VIDEO_LINK_HERE)**
-*Includes step-by-step wire connections, code implementation in Arduino IDE, and live hardware debugging.*
 
----
 
 ## Hardware Components
 * Microcontroller: ESP32 NodeMCU
